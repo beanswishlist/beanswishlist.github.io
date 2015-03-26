@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g id="Layer_3" display="none">
+	<path display="inline" fill="#F6BE27" d="M288,250.2L399.3,280c0,0-20.4,20.4-40.7,40.7c-27.8-7.5-55.6-14.9-55.6-14.9l-40.7,40.7
+		c-27.8-7.5-55.6-14.9-55.6-14.9l-9,9l123.6,33.1l90.5-90.5L288,250.2z"/>
+	<path display="inline" fill="#FAD119" d="M180.9,235.8c20.4-20.4,40.7-40.7,40.7-40.7s25.6,95.6,25.7,95.8l40.7-40.7l-33.1-123.6
+		l-90.5,90.5l33.1,123.6l9.1-9.1C206.6,331.4,180.9,235.8,180.9,235.8z"/>
+	<path display="inline" fill="#FBDA14" d="M318,169.2c0,0,27.8,7.5,55.6,14.9c0,0,25.7,95.9,25.7,95.9l12.4,3.3l-33.1-123.6
+		l-123.6-33.1L288,250.2l55.6,14.9C343.7,265.1,318,169.2,318,169.2z"/>
+</g>
+<g id="Layer_1" display="none">
+	<polygon display="inline" fill="#FBDA14" points="365.7,280.4 242,247.3 208.9,123.7 332.5,156.8 	"/>
+	<polygon display="inline" fill="#F6BE27" points="242,247.3 151.5,337.8 275.2,370.9 365.7,280.4 	"/>
+	<polygon display="inline" fill="#FAD119" points="151.5,337.8 242,247.3 208.9,123.7 118.4,214.2 	"/>
+	<path display="inline" fill="#2B2C7C" d="M256.9,302.9c0,0,27.8,7.5,55.6,14.9c20.4-20.4,40.7-40.7,40.7-40.7L242,247.3l-81.4,81.4
+		c0,0,27.8,7.5,55.6,14.9L256.9,302.9z"/>
+	<path display="inline" fill="#2B2C7C" d="M489.4,237.3c0,0-20.4,20.4-40.7,40.7l-29.8-111.3c20.4-20.4,40.7-40.7,40.7-40.7
+		L489.4,237.3z"/>
+	<path display="inline" fill="#2B2C7C" d="M415.4,240.8c0,0,27.8,7.5,55.6,14.9l-29.8-111.3c-27.8-7.5-55.6-14.9-55.6-14.9
+		L415.4,240.8z"/>
+	<path display="inline" fill="#2B2C7C" d="M201.4,288.1c0,0-20.4,20.4-40.7,40.7l-25.7-96c20.4-20.4,40.7-40.7,40.7-40.7
+		L201.4,288.1z"/>
+	<path display="inline" fill="#2B2C7C" stroke="#000000" stroke-miterlimit="10" d="M70.8,255.7c0,0-24.9,14.4-49.9,28.8"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" x1="21" y1="284.5" x2="21" y2="185.2"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" x1="70.8" y1="255.7" x2="70.8" y2="156.4"/>
+	<path display="inline" fill="#2B2C7C" stroke="#000000" stroke-miterlimit="10" d="M70.8,156.4c0,0-24.9,14.4-49.9,28.8"/>
+	<path display="inline" fill="#2B2C7C" d="M297.7,262.2c0,0,27.8,7.5,55.6,14.9l-25.7-96c-27.8-7.5-55.6-14.9-55.6-14.9L297.7,262.2
+		z"/>
+</g>
+<g id="Layer_2">
+	<polygon fill="#FBDA14" points="511.5,324.8 255.8,256.3 187.3,0.6 443,69.1 	"/>
+	<polygon fill="#F6BE27" points="255.8,256.3 68.7,443.4 324.3,511.9 511.5,324.8 	"/>
+	<polygon fill="#FAD119" points="68.7,443.4 255.8,256.3 187.3,0.6 0.1,187.7 	"/>
+	<path fill="#222222" d="M286.7,371.3c0,0,57.5,15.4,115.1,30.8c42.1-42.1,84.2-84.2,84.2-84.2l-230.1-61.7L87.4,424.7
+		c0,0,57.5,15.4,115.1,30.8L286.7,371.3z"/>
+	<path fill="#4A484A" d="M171.8,340.6c0,0-42.1,42.1-84.2,84.2L34.4,226.4c42.1-42.1,84.2-84.2,84.2-84.2L171.8,340.6z"/>
+	<path fill="#4A484A" d="M370.9,287.1c0,0,57.5,15.4,115.1,30.8l-53.2-198.5c-57.5-15.4-115.1-30.8-115.1-30.8L370.9,287.1z"/>
+</g>
+</svg>

@@ -650,8 +650,10 @@ body {
 }
 .footer-nav .nav-item {
     float: left;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
     margin-left: 1.25em;
-    font-size: 12px
+    font-size: 12px;
 }
 .footer-nav .nav-item:first-child {
     margin-left: 0
@@ -659,24 +661,9 @@ body {
 .footer-nav .nav-item-google-play {
     float: right;
 }
-@media screen and (max-width: 480px) {
-    .footer-nav {
-        margin-right: -1.25em
-    }
-    .footer-nav .twitter-link {
-        display: none
-    }
+@media screen and (max-width: 470px) {
     .footer-nav .nav-item-google-play {
         float: left;
-        margin-top: 15px;
-    }
-    .footer-line {
-        margin-bottom: 15px;
-    }
-}
-@media screen and (min-width: 481px) {
-    .footer-nav {
-        line-height: 5em
     }
 }
 .section {

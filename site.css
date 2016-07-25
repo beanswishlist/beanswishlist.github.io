@@ -599,7 +599,7 @@ body {
 }
 .nav-link {
     font-weight: 400;
-    color: #9C5DC4;
+    color: var(--yellow);
 }
 .nav-image-link {
     margin-bottom: 3px;

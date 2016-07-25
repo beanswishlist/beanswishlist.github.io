@@ -884,6 +884,7 @@ body {
 
 :root {
     --yellow: #f6be27;
+    --light-yellow: #ffd879
 }
 
 .btn.outline {
@@ -902,12 +903,13 @@ body {
 }
 
 .btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
-	color: #33a6cc;
-	border-color: #33a6cc;
+	border-color: var(--light-yellow);
+	color: var(--light-yellow);
 }
 
 .btn-primary.outline:active, .btn-primary.outline.active {
-	border-color: #007299;
-	color: #007299;
+	color: var(--light-yellow);
+	border-color: var(--light-yellow);
+	background: transparent;
 	box-shadow: none;
 }

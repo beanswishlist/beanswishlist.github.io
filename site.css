@@ -864,6 +864,12 @@ body {
   overflow:auto;
   margin: 20px auto;
 }
+#title-secondary {
+  text-align: center;
+  font-size: 22px;
+  color: #aaaaaa;
+  padding-bottom: 50px;
+}
 @media (max-width: 620px) {
     #title {
 	    font-size: 50px;

@@ -860,8 +860,6 @@ body {
   color: black;
   font-size: 60px;
   font-family: "gotham", arial, helvetica, sans-serif;
-  height:100vh;
-  overflow:auto;
   margin: 20px auto;
 }
 #title-secondary {

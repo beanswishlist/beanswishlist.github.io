@@ -895,25 +895,19 @@ body {
 	background: transparent;
 	padding: 12px 22px;
 }
-
-.btn.outline.facebook {
-	background: transparent;
-	padding: 10px 18px;
-}
-
 .btn-primary.outline {
-	border: 2px solid var(--yellow);
-	color: var(--yellow);
+	border: 2px solid #f6be27;
+	color: #f6be27;
 }
 
 .btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
-	border-color: var(--light-yellow);
-	color: var(--light-yellow);
+	border-color: #ffd879;
+	color: #ffd879;
 }
 
 .btn-primary.outline:active, .btn-primary.outline.active {
-	color: var(--light-yellow);
-	border-color: var(--light-yellow);
+	color: #ffd879;
+	border-color: #ffd879;
 	background: transparent;
 	box-shadow: none;
 }
